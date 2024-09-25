@@ -13,7 +13,8 @@ export default function home() {
          
         }}
       >
-        Home
+        
+        Home boy come on 
       </Text>
     </View>
   );
